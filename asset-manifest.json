@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/emoji-search.github.io/static/css/main.ff1b3771.css",
+    "main.css": "/emoji-search.github.io/static/css/main.852739c1.css",
     "main.js": "/emoji-search.github.io/static/js/main.ddd35136.js",
     "index.html": "/emoji-search.github.io/index.html",
-    "main.ff1b3771.css.map": "/emoji-search.github.io/static/css/main.ff1b3771.css.map",
+    "main.852739c1.css.map": "/emoji-search.github.io/static/css/main.852739c1.css.map",
     "main.ddd35136.js.map": "/emoji-search.github.io/static/js/main.ddd35136.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff1b3771.css",
+    "static/css/main.852739c1.css",
     "static/js/main.ddd35136.js"
   ]
 }
