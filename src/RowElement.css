@@ -32,7 +32,7 @@
 
 .rowele:hover > p >  .btn-copy{
     display: inline;
-    color:red;
+    color:rgb(128, 126, 126);
      text-align: right;
    position: absolute;
    right: 0;
